@@ -9,6 +9,8 @@ public class DigitSum
 		int n=s.nextInt();
 			isSum(n);
 		}
+
+			//Github
 		 public static void isSum(int n)
 		 {
 			 int rem,sum=0;
